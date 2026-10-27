@@ -1,0 +1,1 @@
+export default function Loading() {return <section className="shell loading-block" role="status" aria-label="Cargando publicaciones"><div className="loading-bar"/><div className="loading-box"/><div className="loading-grid"><div/><div/><div/></div><span className="sr-only">Cargando...</span></section>}
